@@ -1,0 +1,75 @@
+{
+   "swipers": [
+      "https://ly809652226.github.io/imageserver/banner1.jpg",
+      "https://ly809652226.github.io/imageserver/banner2.jpg"
+   ],
+   "recommends": [
+      {
+         "path": "https://ly809652226.github.io/imageserver/goods1.jpg",
+         "name": "空调清洗",
+         "price": "￥130"
+      },
+      {
+         "path": "https://ly809652226.github.io/imageserver/goods2.jpg",
+         "name": "新居开荒（按照房屋建筑面积）",
+         "price": "￥5.00"
+      },
+      {
+         "path": "https://ly809652226.github.io/imageserver/goods3.jpg",
+         "name": "日常保洁（按照房屋建筑面积）",
+         "price": "￥2.50"
+      },
+      {
+         "path": "https://ly809652226.github.io/imageserver/goods4.jpg",
+         "name": "油烟机清洗",
+         "price": "￥125.00"
+      }
+   ],
+   "infos": [
+      "智慧我家管家成长记",
+      "滞销菜进社区，智慧我家建起爱心桥！",
+      "智慧我家千峰店·粽子飘香来，端午送真情！",
+      "快递又有新规定 好些东西以后不能邮寄啦",
+      "关闭车门勇抓小偷　公交司机真是好样的",
+      "厨房油烟污染有多严重，该怎么避免呢？",
+      "如何改善居住环境质量,还家人清新空气？",
+      "省城五类人群可参加护工培训",
+      "天冷路滑 医生交警给你提个醒",
+      "太原六城区新年发展“小目标” 件件关民生",
+      "山西多地迎来“迟到的雪” 多条高速路封闭",
+      "共享单车登陆太原 不用锁桩不用卡一部手机全搞定"
+   ],
+   "servers": [
+      "https://ly809652226.github.io/imageserver/server1.gif",
+      "https://ly809652226.github.io/imageserver/server2.gif",
+      "https://ly809652226.github.io/imageserver/server3.gif",
+      "https://ly809652226.github.io/imageserver/server4.gif",
+      "https://ly809652226.github.io/imageserver/server5.gif",
+      "https://ly809652226.github.io/imageserver/server6.gif",
+      "https://ly809652226.github.io/imageserver/server7.gif",
+      "https://ly809652226.github.io/imageserver/server8.gif",
+      "https://ly809652226.github.io/imageserver/server9.gif",
+      "https://ly809652226.github.io/imageserver/server10.gif"
+   ],
+   "timelines": [
+     "https://ly809652226.github.io/imageserver/banner3.jpg",
+     "https://ly809652226.github.io/imageserver/banner4.jpg"
+   ],
+   "links": [
+      "我爱我家",
+      "太原市民政局",
+      "中国社区网",
+      "太原市社会（儿童）福利院",
+      "凯特通讯——手机维修",
+      "太原第四城论坛",
+      "乐回收",
+      "沟门前—山西特产",
+      "嘉世达机器人"
+   ],
+   "list": [
+     "https://ly809652226.github.io/imageserver/list1.jpg",
+     "https://ly809652226.github.io/imageserver/list2.jpg",
+     "https://ly809652226.github.io/imageserver/list3.jpg",
+     "https://ly809652226.github.io/imageserver/list4.jpg"
+   ]
+}
